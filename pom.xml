@@ -7,9 +7,9 @@
   <name>lucky</name>
   <description>main</description>
   <modules>
-		<module>mes-web</module>
+		<module>lucky-web</module>
 		
-		<module>mes-core</module>
+		<module>lucky-core</module>
 	</modules>
 	  <dependencies>  
         <!--junit3.0使用编程方式运行,junit4.0使用注解方式运行 -->  
