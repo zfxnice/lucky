@@ -10,10 +10,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>lucky-core</name>
   <description>base</description>
-  
-   <url>http://maven.apache.org</url>
-  <properties>
+    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
+   <url>http://maven.apache.org</url>
+
 </project>
